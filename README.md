@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#,java,c++,game development,python**
 
-- 🤝 I’m looking for help with **Game Developes**
+- 🤝 I’m looking for help with **Game Developement**
 
 - 💬 Ask me about **Game dev , unity engine**
 
